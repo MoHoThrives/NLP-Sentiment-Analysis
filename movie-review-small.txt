@@ -1,0 +1,14 @@
+Probability of fun in label comedy is 0.25 
+Probability of fun in label action is 0.1111111111111111 
+Probability of couple in label comedy is 0.1875 
+Probability of couple in label action is 0.05555555555555555 
+Probability of love in label comedy is 0.1875 
+Probability of love in label action is 0.1111111111111111 
+Probability of fly in label comedy is 0.125 
+Probability of fly in label action is 0.1111111111111111 
+Probability of fast in label comedy is 0.125 
+Probability of fast in label action is 0.16666666666666666 
+Probability of furious in label comedy is 0.0625 
+Probability of furious in label action is 0.16666666666666666 
+Probability of shoot in label comedy is 0.0625 
+Probability of shoot in label action is 0.2777777777777778 

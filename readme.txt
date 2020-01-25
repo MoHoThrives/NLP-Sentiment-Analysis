@@ -1,0 +1,3 @@
+If you would like to run the program, please delete the .txt and .json files from here. Then copy over the 'movie-review-HW2' folder that was given in the email. Start by running pre-process.py, then, pre-process2.py, preprocess_make_dictionaries, and finally NB.py.
+
+Otherwise, if you just want to see the results, please look here in the same directory to see movie-review-small and movie-review-BOW-NB. To see the test results, they're also here in all-test-results-pos/neg.
